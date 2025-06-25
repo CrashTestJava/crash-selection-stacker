@@ -10,7 +10,7 @@ import pathlib
 
 # The name of the file. 
 # String. Will output as NAME.aseprite-extension
-NAME = "crash-selection-stacker"
+NAME = "crash-selection-stacker-dev"
 
 # The source code directory. All files that need to be built into the .aseprite-extension go in here.
 # String. By default, it uses the src folder. The path cannot be the root or output directory.
