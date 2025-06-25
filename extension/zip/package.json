@@ -1,0 +1,18 @@
+{
+  "name": "crash-selection-stacker",
+  "displayName": "Crash's Selection Stacker v1.0",
+  "description": "A simple Aseprite extension that stacks a selection a certain number of times or pixels.",
+  "version": "1.0",
+  "author": { "name": "CrashTestJava",
+              "email": "",
+              "url": "https://crashtestjava.itch.io/selection-stacker/" },
+  "contributors": [],
+  "publisher": "",
+  "license": "MIT",
+  "categories": [ "Scripts" ],
+  "contributes": {
+    "scripts": [
+        { "path": "./script.lua" }
+    ]
+  }
+}
