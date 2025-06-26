@@ -6,6 +6,8 @@ labels: bug
 assignees: ''
 
 ---
+**Please check for duplicate issues!!**
+
 
 **Describe the bug**
 A clear and concise description of what the bug is.
